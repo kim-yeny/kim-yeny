@@ -9,11 +9,10 @@
   <br>
   <br>
   
+  [![Naver Badge](https://img.shields.io/badge/Email-Naver-03C75A?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
   <a href="https://user-0715.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-Tistory-E4501E?style=flat-square&" />
   </a>
-  
-  [![Naver Badge](https://img.shields.io/badge/Email-Naver-03C75A?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
   
   <br>
   <h1></h1>
