@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Welcome, I'm Yeny! 👋</h1>
-  <a href="https://www.google.com" target="_blank">
-  <img src="https://img.shields.io/badge/Contact-Naver-03C75A?style=flat-square&"/>
-  </a>
-    <img src="https://img.shields.io/badge/Blog-Tistory-E34F26?style=flat-square&"/>
   
- 
-  <br>
   <br>
   
   <img src="이미지주소.png" width="200" height="200"/>
+
+  <br>
+  <br>
+  
+  [![Naver Badge](https://img.shields.io/badge/Email-Naver-03C75A?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
+  [![Tistory Badge](https://img.shields.io/badge/Blog-Tistory-E4501E?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
+  
 
   <br>
   <br>
@@ -26,27 +27,20 @@
 
   <br>
   <br>
+  <br>
   
-  <h2>💡 Tool Use 💡</h2>
+  <h2>✨ Tool Use ✨</h2>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-  <br>
-  <br>
   
-  <h2>✨ My Things ✨</h2>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <br>
+  <br>
+  <br>
 </div>
-
 
 
 
@@ -64,4 +58,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->](url)
+-->
+
