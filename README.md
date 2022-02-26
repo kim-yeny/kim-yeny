@@ -15,7 +15,7 @@
   <br>
   <br>
  
-  <h2>🔥 Tech Stack 🔥</h2>
+  <h3>🔥 Tech Stack 🔥</h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -29,7 +29,7 @@
   <br>
   <br>
   
-  <h2>✨ Tool Use ✨</h2>
+  <h3>✨ Tool Use ✨</h3>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
