@@ -11,10 +11,8 @@
   [![Naver Badge](https://img.shields.io/badge/Email-Naver-03C75A?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
   [![Tistory Badge](https://img.shields.io/badge/Blog-Tistory-E4501E?style=flat-square&link=mailto:des423@naver.com)](mailto:des423@naver.com)
   
-
-  <br>
-  <br>
- 
+  <h1></h1>
+  
   <h3>🔥 Tech Stack 🔥</h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -25,9 +23,7 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 
-  <br>
-  <br>
-  <br>
+  <h1></h1>
   
   <h3>✨ Tool Use ✨</h3>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
@@ -37,9 +33,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   
-  <br>
-  <br>
-  <br>
+  <h1></h1>
   <br>
   <br>
   <br>
