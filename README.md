@@ -4,7 +4,7 @@
   <br>
   <br>
   
-  <img src="이미지주소.png" width="200" height="200"/>
+  <img src="./profile.jpg" width="200" height="200"/>
   
   <br>
   <br>
