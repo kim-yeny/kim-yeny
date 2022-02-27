@@ -4,7 +4,7 @@
   <br>
   <br>
   
-  <img src="./profile.JPG" width="300" height="300"/>
+  <img src="./1.JPG" width="300" height="300"/>
   
   <br>
   <br>
