@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Welcome, I'm Yeny! 👋</h1>
+  <h3>Welcome, I'm Yeny! 👋</h3>
   
-  <br>
   <br>
   
   <img src="./img.jpg" width="300" height="300"/>
@@ -14,9 +13,7 @@
     <img src="https://img.shields.io/badge/Blog-Tistory-E4501E?style=flat-square&" />
   </a>
   
-  <br>
   <h1></h1>
-  <br>
   
   <h3>🔥 Tech Stack 🔥</h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
