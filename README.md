@@ -14,6 +14,7 @@
   </a>
   
   <h1></h1>
+  <br>
   
   <h3>🔥 Tech Stack 🔥</h3>
   
@@ -25,9 +26,10 @@
   <br>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
-
-  <h1></h1>
   
+  <br>
+  <br>
+
   <h3>✨ Tool Use ✨</h3>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
